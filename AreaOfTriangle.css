@@ -1,0 +1,39 @@
+#border{
+  width: 800px;
+  height: 300px;
+  border: 2px solid steelblue;
+  margin: auto;
+}
+.number{
+  text-align: center;
+  font-family: verdana;
+  font-size: 20px;
+}
+#problem,#res{
+  font-size: 20px;
+  font-family: verdana;
+  text-align: center;
+}
+
+input{
+  width: 100px;
+  height: 20px;
+  padding: 5px;
+}
+
+label{
+ padding: 10px;
+}
+#button{
+  padding: 20px;
+  text-align: center;
+}
+ 
+#submit{
+  width: 200px;
+  height: 50px;
+  font-family: verdana;
+  font-size: 20px;
+  background-color: steelblue;
+  box-shadow: 2px 5px lightgray; 
+}
